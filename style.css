@@ -1,3 +1,8 @@
+@font-face{
+    font-family: czionka;
+    src: url(DancingFont.ttf);
+}
+
 p{
 
 color:rgb(10, 69, 28);
@@ -28,6 +33,7 @@ img{
 } 
 
 h1{
+    font-family: czcionka;
     font-weight: 200;
     font-size: 30pt;
     margin-right: 7%;
@@ -40,6 +46,7 @@ max-width. 800px;
 margin_auto
 
 }
+
 
 
 
