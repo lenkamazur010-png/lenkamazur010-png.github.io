@@ -24,7 +24,7 @@ img{
     border:5px;  
     color:black;
     border-style:solid;
-    object-position: center;
+    margin: auto;
 } 
 
 h1{
@@ -40,6 +40,7 @@ max-width. 800px;
 margin_auto
 
 }
+
 
 
 
