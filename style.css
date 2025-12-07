@@ -1,5 +1,5 @@
 @font-face{
-    font-family: czcionka;
+    font-family: "czcionka";
     src: url("DancingFont.ttf");
 }
 
@@ -32,7 +32,7 @@ img{
 } 
 
 h1{
-    font-family: czcionka;
+    font-family: "czcionka";
     font-weight: 200;
     font-size: 30pt;
     margin-right: 7%;
@@ -45,6 +45,7 @@ max-width. 800px;
 margin_auto
 
 }
+
 
 
 
