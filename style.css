@@ -5,11 +5,13 @@ color:rgb(229, 238, 198);
 font-size: 16pt;
 
 }
+
 body
 {
 background-color: rgb(141, 141, 221);
 background-image: url("736.jpg");
 background-size: cover;
+background-position: center
 letter-spacing: 1px;    
 }    
 
@@ -31,6 +33,7 @@ max-width. 800px;
 margin_auto
 
 }
+
 
 
 
