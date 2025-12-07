@@ -24,11 +24,14 @@ img{
     border:5px;  
     color:black;
     border-style:solid;
+    img-position: center;
 } 
 
 h1{
     font-weight: 200;
-    font-size: 30pt
+    font-size: 30pt;
+    margin-right: 7%;
+    margin-left: 7%;
     
 }
 
@@ -37,6 +40,7 @@ max-width. 800px;
 margin_auto
 
 }
+
 
 
 
