@@ -29,6 +29,7 @@ img{
     border:5px;  
     color:black;
     border-style:solid;
+    text-align: center;
 
 } 
 
@@ -41,11 +42,8 @@ h1{
     
 }
 
-body{
-max-width. 800px;
-margin_auto
 
-}
+
 
 
 
