@@ -1,6 +1,6 @@
 @font-face{
-    font-family: czionka;
-    src: url(DancingFont.ttf);
+    font-family: czcionka;
+    src: url("DancingFont.ttf");
 }
 
 p{
@@ -29,7 +29,6 @@ img{
     border:5px;  
     color:black;
     border-style:solid;
-    margin: auto;
 } 
 
 h1{
@@ -46,6 +45,7 @@ max-width. 800px;
 margin_auto
 
 }
+
 
 
 
